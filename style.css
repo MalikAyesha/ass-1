@@ -1,0 +1,78 @@
+body{
+    background-color: chartreuse;
+}
+div.A{
+     position: absolute; 
+     top: 15px; 
+     right: 890px; 
+    display: flex;
+    display: inline;
+    font-size: small;
+}
+h6.f{
+    background-color: rgb(95, 93, 93);
+    margin: 20px;
+    text-align: center;
+    color: white;
+
+    }
+div.Y{
+  position: absolute; 
+  top: 15px; 
+     right: 550px; 
+ display: flex;
+ display: inline;
+ font-size: small;
+}
+div.E{
+    position: absolute; 
+    top: 15px; 
+    right: 190px; 
+    display: flex;
+    display: inline;
+    font-size: small; 
+} 
+div.S{
+    position: absolute; 
+     top: 500px;  
+     right: 890px; 
+      display: flex;
+      display: inline;
+      font-size: small; 
+}
+div.H{
+    position: absolute; 
+     top: 480px; 
+     right: 550px; 
+     display: flex;
+     display: inline;
+     font-size: small; 
+}
+div.a{
+    position: absolute; 
+     top: 500px;  
+    right: 190px; 
+    /* right: 10px;  */
+      display: flex; 
+      display: inline;
+      font-size: small; 
+}
+    .Y{
+        background-color: rgb(58, 4, 254);
+    
+    }
+    .A{
+        background-color: rgb(13, 37, 13);
+    }
+    .E{
+        background-color: rgb(12, 179, 245);
+    }
+    .S{
+        background-color: rgb(245, 12, 183);
+    }
+    .H{
+        background-color: rgb(245, 12, 12);
+    }
+    .a{
+        background-color: rgb(230, 245, 12);
+    }
